@@ -1,6 +1,6 @@
 AWS CLI commands to import a CSV file into DynamoDB
 
-
+https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/S3DataImport.HowItWorks.html
 https://awscli.amazonaws.com/v2/documentation/api/latest/index.html
 
 install latest CLI version. 2.7.25 required
